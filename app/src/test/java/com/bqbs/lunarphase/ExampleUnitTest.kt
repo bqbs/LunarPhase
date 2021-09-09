@@ -1,4 +1,4 @@
-package com.jclian.moonphase
+package com.github.bqbs.lunarphase
 
 import org.junit.Test
 

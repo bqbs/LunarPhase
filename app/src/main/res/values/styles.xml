@@ -1,7 +1,6 @@
 <resources>
 
-    <style name="Widget.Theme.MoonPhase.MyView" parent="">
+    <style name="Widget.Theme.LunarPhase.MyView" parent="">
         <item name="android:background">@color/gray_400</item>
-        <item name="exampleColor">@color/light_blue_400</item>
     </style>
 </resources>
